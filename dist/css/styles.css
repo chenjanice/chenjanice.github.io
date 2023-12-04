@@ -7367,7 +7367,9 @@ textarea.form-control-lg {
 
 .mb-1 {
   margin-bottom: 0.25rem !important;
-  font-weight: bolder !important;
+  /* font-weight: bolder !important; */
+  color: #212529 !important;
+
 
 }
 
